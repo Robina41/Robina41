@@ -29,7 +29,7 @@
   <h2 style="color:#bfe9ff; font-size:18px;">📂 Portfolio Highlights</h2>
   <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.03); border-radius:8px;">
     <h3 style="margin:0 0 8px;">🔹 Business Website (Divi)</h3>
-    <p>Redesigned a business site in <strong>Divi</strong> with responsive layout & contact form. Improved UX & speed.</p>
+    <p>Redesigned a business site in <strong>Divi</strong> with responsive layout & contact form.</p>
   </div>
 
   <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.03); border-radius:8px;">
@@ -44,9 +44,9 @@
 
   <h2 style="color:#bfe9ff; font-size:18px;">📜 Certificates</h2>
   <ul>
-    <li>🏅 Web Development Certificate — <strong>UET</strong></li>
+    <li>🏅 Web Development Certificate — <strong>UET & Coursera </strong></li>
     <li>🏅 WordPress Certificate — <strong>Coursera</strong></li>
-    <li>🏅 Web Development Certificate — <strong>Coursera</strong></li>
+
   </ul>
 
   <h2 style="color:#bfe9ff; font-size:18px;">📊 Work Process</h2>
@@ -66,6 +66,6 @@
 
   <h2 style="color:#bfe9ff; font-size:18px;">📫 Contact</h2>
   <p>Email: <a href="mailto:[Your Email]" style="color:#9bd7ff;">robinakhalid045@gmail.com</a><br>
-  Portfolio: <a href="[Your Portfolio Link]" style="color:#9bd7ff;">https://film.darkpowerpro.com/</a></p>
+LinkedIn: <a href="https://www.linkedin.com/in/robina-khalid-8a3510383/"[Your-LinkedIn-Username]" style="color:#9bd7ff;">https://www.linkedin.com/in/Robina Khalid </a></p>
 
 </div>
