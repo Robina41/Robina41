@@ -9,7 +9,6 @@
     <li>⚡ Divi / Elementor Design & Customization</li>
     <li>🛒 WooCommerce Store Setup & Payment Integration</li>
     <li>🔒 Security & Backup Solutions</li>
-    <li>🔄 Website Migration (Hosting / Domain transfer)</li>
     <li>📱 Mobile-Friendly & Responsive Design</li>
     <li>🚀 Speed Optimization & SEO Basics</li>
   </ul>
@@ -24,9 +23,8 @@
     <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">HTML5</span>
     <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">CSS3</span>
     <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">JavaScript</span>
-    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">MySQL</span>
     <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">cPanel</span>
-    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">Git</span>
+  
   </p>
 
   <h2 style="color:#bfe9ff; font-size:18px;">📂 Portfolio Highlights</h2>
@@ -54,9 +52,7 @@
     <li>Proposal & Quote → Scope & timeline</li>
     <li>Design → Divi / Elementor mockups</li>
     <li>Development → Build & previews</li>
-    <li>Testing → Mobile, speed, SEO checks</li>
-    <li>Launch → DNS + SSL setup</li>
-    <li>Support → Post-launch fixes</li>
+
   </ol>
 
   <h2 style="color:#bfe9ff; font-size:18px;">💼 Services Packages</h2>
@@ -67,7 +63,7 @@
   </ul>
 
   <h2 style="color:#bfe9ff; font-size:18px;">📫 Contact</h2>
-  <p>Email: <a href="mailto:[Your Email]" style="color:#9bd7ff;">[Your Email]</a><br>
-  Portfolio: <a href="[Your Portfolio Link]" style="color:#9bd7ff;">[Your Portfolio Link]</a></p>
+  <p>Email: <a href="mailto:[Your Email]" style="color:#9bd7ff;">robinakhalid045@gmail.com</a><br>
+  Portfolio: <a href="[Your Portfolio Link]" style="color:#9bd7ff;">https://film.darkpowerpro.com/</a></p>
 
 </div>
