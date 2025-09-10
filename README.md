@@ -1,7 +1,7 @@
 <div style="font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Arial; background:#0f1724; color:#e6eef8; line-height:1.6; padding:20px; border-radius:12px;">
 
   <h1 style="font-size:22px; margin:0 0 10px;">💻 WordPress Developer <span style="color:#9bd7ff;">|</span> Divi & Elementor Specialist</h1>
-  <p style="margin:0 0 20px;">👋 Hi, I'm <strong>[RUBINA SHAHEEN]</strong> — I build responsive, fast, and SEO-friendly WordPress websites using Divi & Elementor.</p>
+  <p style="margin:0 0 20px;">👋 Hi, I'm <strong>RUBINA SHAHEEN</strong><BR> — I build responsive, fast, and SEO-friendly WordPress websites using Divi & Elementor.</p>
 
   <h2 style="color:#bfe9ff; font-size:18px;">🚀 What I Do</h2>
   <ul>
