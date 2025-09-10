@@ -1,106 +1,73 @@
-<p align="center">
-  <img src="https://github.com/syedmuhammadbilalgillani/SyedMuhammadBilalGillani/blob/main/cover.png" alt="Cover Image" width="1100">
-</p>
+<div style="font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Arial; background:#0f1724; color:#e6eef8; line-height:1.6; padding:20px; border-radius:12px;">
 
-<h1 align="center">Hello! I'm Syed Muhammad Bilal Gillani</h1>
-<h3 align="center">Full Stack Developer | Expert in Next.js, NestJS, TypeScript, React Native & MERN Stack | Crafting Scalable Solutions with PostgreSQL, Tailwind CSS & Bootstrap</h3>
+  <h1 style="font-size:22px; margin:0 0 10px;">💻 WordPress Developer <span style="color:#9bd7ff;">|</span> Divi & Elementor Specialist</h1>
+  <p style="margin:0 0 20px;">👋 Hi, I'm <strong>[Your Name]</strong> — I build responsive, fast, and SEO-friendly WordPress websites using Divi & Elementor.</p>
 
----
+  <h2 style="color:#bfe9ff; font-size:18px;">🚀 What I Do</h2>
+  <ul>
+    <li>🎨 Custom WordPress Themes & Child Themes</li>
+    <li>⚡ Divi / Elementor Design & Customization</li>
+    <li>🛒 WooCommerce Store Setup & Payment Integration</li>
+    <li>🔒 Security & Backup Solutions</li>
+    <li>🔄 Website Migration (Hosting / Domain transfer)</li>
+    <li>📱 Mobile-Friendly & Responsive Design</li>
+    <li>🚀 Speed Optimization & SEO Basics</li>
+  </ul>
 
-### 🌟 About Me
+  <h2 style="color:#bfe9ff; font-size:18px;">🛠️ Skills & Tools</h2>
+  <p>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">WordPress</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">Divi</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">Elementor</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">WooCommerce</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">PHP</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">HTML5</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">CSS3</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">JavaScript</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">MySQL</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">cPanel</span>
+    <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">Git</span>
+  </p>
 
-I'm a passionate Full Stack Developer with a knack for building scalable, user-focused web and mobile applications. My expertise spans frontend and backend development, leveraging modern tools like *Next.js, **NestJS, **TypeScript, and the **MERN Stack*. I love tackling complex challenges and delivering high-quality, performance-driven solutions.
+  <h2 style="color:#bfe9ff; font-size:18px;">📂 Portfolio Highlights</h2>
+  <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.03); border-radius:8px;">
+    <h3 style="margin:0 0 8px;">🔹 Business Website (Divi)</h3>
+    <p>Redesigned a business site in <strong>Divi</strong> with responsive layout & contact form. Improved UX & speed.</p>
+    <a href="[Your Project Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">🔗 View Project</a>
+  </div>
 
-- 🔭 *Currently Working On*: Full-stack projects with Next.js, TypeScript, and Nest.js.
-- 🌱 *Learning*: Advanced React Native with Expo for cross-platform mobile apps.
-- 👯 *Open to Collaborate*: On scalable web/mobile apps with a focus on performance.
-- 💬 *Ask Me About*: MERN Stack, Next.js, NestJS, TypeScript, React Native, or Tailwind CSS.
-- ⚡ *Fun Fact*: I blend creativity and code to solve real-world problems!
+  <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.03); border-radius:8px;">
+    <h3 style="margin:0 0 8px;">🔹 WooCommerce Store</h3>
+    <p>Set up WooCommerce with products, shipping rules & payment gateways. Optimized checkout for conversions.</p>
+    <a href="[Your Project Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">🔗 View Project</a>
+  </div>
 
----
+  <div style="padding:12px; background:rgba(255,255,255,0.03); border-radius:8px;">
+    <h3 style="margin:0 0 8px;">🔹 Site Migration & Speed Optimization</h3>
+    <p>Migrated a client’s site with zero downtime and improved load time from 6s → 2s.</p>
+    <a href="[Your Project Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">🔗 View Project</a>
+  </div>
 
-### 🛠 Tech Stack
+  <h2 style="color:#bfe9ff; font-size:18px;">📊 Work Process</h2>
+  <ol>
+    <li>Discovery → Requirements discussion</li>
+    <li>Proposal & Quote → Scope & timeline</li>
+    <li>Design → Divi / Elementor mockups</li>
+    <li>Development → Build & previews</li>
+    <li>Testing → Mobile, speed, SEO checks</li>
+    <li>Launch → DNS + SSL setup</li>
+    <li>Support → Post-launch fixes</li>
+  </ol>
 
-<div align="center" style="background-color: #2d2d2d; padding: 20px; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" title="React"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" title="Next.js"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js"/> 
-  <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-w81k0lze.png" alt="NestJS" width="50" height="50" title="NestJS"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
+  <h2 style="color:#bfe9ff; font-size:18px;">💼 Services Packages</h2>
+  <ul>
+    <li><strong>Basic</strong> → 1–3 page website (Divi template setup)</li>
+    <li><strong>Standard</strong> → 5-page business site + contact form + SEO basics</li>
+    <li><strong>Premium</strong> → WooCommerce store, payment integration, 30-day support</li>
+  </ul>
+
+  <h2 style="color:#bfe9ff; font-size:18px;">📫 Contact</h2>
+  <p>Email: <a href="mailto:[Your Email]" style="color:#9bd7ff;">[Your Email]</a><br>
+  Portfolio: <a href="[Your Portfolio Link]" style="color:#9bd7ff;">[Your Portfolio Link]</a></p>
+
 </div>
-
----
-
-### 💼 Experience
-
-- *Full-Stack Web Developer* @ xNerds (Nov 2024 - Present)  
-  - Developing scalable web apps with MERN, Next.js, and TypeScript.  
-  - Creating cross-platform mobile apps using React Native and Expo.
-
-- *MERN Stack Developer* @ UET Lahore (Oct 2023 - Oct 2024)  
-  - Built features for an e-commerce platform, focusing on both frontend and backend.
-
-- *Advanced Web Training* @ NAVTAC (May 2023 - Aug 2023)  
-  - Mastered frontend development and explored backend frameworks like Laravel.
-
----
-
-### 🏆 Certifications
-
-- *Advanced Web Training* - NAVTAC  
-- *Graphic Designing* - Peak Solutions  
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-muhammad-bilal-gillani-5b6714287" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:syedmuhammadbilalgillani2003@gmail.com"><img src="https://github.com/iAmHira19/iAmHira19/blob/main/email.png" alt="Email" width="40" height="40"/></a>
-</p>
-
----
-
-### 🚀 My Projects
-
-- 💻 *[Little Fashion](https://littlefashion-pi.vercel.app/)*  
-  A full-stack e-commerce platform built with the MERN stack.  
-
-- 📄 *[HexaShop](https://hexashopclient.vercel.app/)*  
-  A role-based e-commerce site with Gmail verification for enhanced security.  
-
-- 📱 *[React Native Expo App]*  
-  A cross-platform mobile app developed using React Native and Expo.  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedmuhammadbilalgillani&show_icons=true&theme=dracula" alt="GitHub Stats" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadbilalgillani&theme=dracula" alt="GitHub Streak" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhammadbilalgillani&layout=compact&theme=dracula" alt="Top Languages" width="500"/>
-</p>
-
----
-
-<p align="center"> 
-  <img src="https://img.shields.io/github/followers/syedmuhammadbilalgillani?label=Follow%20me&style=social" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <i>Let's build something amazing together!</i>
-</p>
