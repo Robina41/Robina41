@@ -30,39 +30,24 @@
   <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.03); border-radius:8px;">
     <h3 style="margin:0 0 8px;">🔹 Business Website (Divi)</h3>
     <p>Redesigned a business site in <strong>Divi</strong> with responsive layout & contact form. Improved UX & speed.</p>
-    <a href="[Your Project Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">🔗 View Project</a>
   </div>
 
   <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.03); border-radius:8px;">
     <h3 style="margin:0 0 8px;">🔹 WooCommerce Store</h3>
     <p>Set up WooCommerce with products, shipping rules & payment gateways. Optimized checkout for conversions.</p>
-    <a href="[Your Project Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">🔗 View Project</a>
   </div>
 
   <div style="padding:12px; background:rgba(255,255,255,0.03); border-radius:8px;">
     <h3 style="margin:0 0 8px;">🔹 Site Migration & Speed Optimization</h3>
     <p>Migrated a client’s site with zero downtime and improved load time from 6s → 2s.</p>
-    <a href="[Your Project Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">🔗 View Project</a>
   </div>
 
   <h2 style="color:#bfe9ff; font-size:18px;">📜 Certificates</h2>
-  <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.04); border-radius:8px;">
-    <h3 style="margin:0 0 8px;">✅ WordPress Development Certification</h3>
-    <p>Certified by <strong>[Institute/Platform Name]</strong> — covering WordPress, themes, and plugins.</p>
-    <a href="[Certificate Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">📄 View Certificate</a>
-  </div>
-
-  <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.04); border-radius:8px;">
-    <h3 style="margin:0 0 8px;">✅ Elementor & Divi Advanced Design</h3>
-    <p>Specialization in building professional websites with Elementor & Divi.</p>
-    <a href="[Certificate Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">📄 View Certificate</a>
-  </div>
-
-  <div style="padding:12px; background:rgba(255,255,255,0.04); border-radius:8px;">
-    <h3 style="margin:0 0 8px;">✅ SEO & Website Optimization</h3>
-    <p>Completed training in SEO strategies & website performance improvement.</p>
-    <a href="[Certificate Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">📄 View Certificate</a>
-  </div>
+  <ul>
+    <li>🏅 Web Development Certificate — <strong>UET</strong></li>
+    <li>🏅 WordPress Certificate — <strong>Coursera</strong></li>
+    <li>🏅 Web Development Certificate — <strong>Coursera</strong></li>
+  </ul>
 
   <h2 style="color:#bfe9ff; font-size:18px;">📊 Work Process</h2>
   <ol>
