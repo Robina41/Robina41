@@ -1,7 +1,7 @@
 <div style="font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Arial; background:#0f1724; color:#e6eef8; line-height:1.6; padding:20px; border-radius:12px;">
 
   <h1 style="font-size:22px; margin:0 0 10px;">💻 WordPress Developer <span style="color:#9bd7ff;">|</span> Divi & Elementor Specialist</h1>
-  <p style="margin:0 0 20px;">👋 Hi, I'm <strong>RUBINA SHAHEEN</strong><BR> — I build responsive, fast, and SEO-friendly WordPress websites using Divi & Elementor.</p>
+  <p style="margin:0 0 20px;">👋 Hi, I'm <strong>RUBINA SHAHEEN</strong><br> — I build responsive, fast, and SEO-friendly WordPress websites using Divi & Elementor.</p>
 
   <h2 style="color:#bfe9ff; font-size:18px;">🚀 What I Do</h2>
   <ul>
@@ -24,7 +24,6 @@
     <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">CSS3</span>
     <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">JavaScript</span>
     <span style="padding:6px 10px; background:rgba(255,255,255,0.05); border-radius:6px;">cPanel</span>
-  
   </p>
 
   <h2 style="color:#bfe9ff; font-size:18px;">📂 Portfolio Highlights</h2>
@@ -46,13 +45,31 @@
     <a href="[Your Project Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">🔗 View Project</a>
   </div>
 
+  <h2 style="color:#bfe9ff; font-size:18px;">📜 Certificates</h2>
+  <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.04); border-radius:8px;">
+    <h3 style="margin:0 0 8px;">✅ WordPress Development Certification</h3>
+    <p>Certified by <strong>[Institute/Platform Name]</strong> — covering WordPress, themes, and plugins.</p>
+    <a href="[Certificate Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">📄 View Certificate</a>
+  </div>
+
+  <div style="margin-bottom:12px; padding:12px; background:rgba(255,255,255,0.04); border-radius:8px;">
+    <h3 style="margin:0 0 8px;">✅ Elementor & Divi Advanced Design</h3>
+    <p>Specialization in building professional websites with Elementor & Divi.</p>
+    <a href="[Certificate Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">📄 View Certificate</a>
+  </div>
+
+  <div style="padding:12px; background:rgba(255,255,255,0.04); border-radius:8px;">
+    <h3 style="margin:0 0 8px;">✅ SEO & Website Optimization</h3>
+    <p>Completed training in SEO strategies & website performance improvement.</p>
+    <a href="[Certificate Link]" style="color:#9bd7ff; text-decoration:none; font-weight:600;">📄 View Certificate</a>
+  </div>
+
   <h2 style="color:#bfe9ff; font-size:18px;">📊 Work Process</h2>
   <ol>
     <li>Discovery → Requirements discussion</li>
     <li>Proposal & Quote → Scope & timeline</li>
     <li>Design → Divi / Elementor mockups</li>
     <li>Development → Build & previews</li>
-
   </ol>
 
   <h2 style="color:#bfe9ff; font-size:18px;">💼 Services Packages</h2>
