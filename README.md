@@ -65,9 +65,8 @@
   </ul>
 
   <h2 style="color:#bfe9ff; font-size:18px;">📫 Contact</h2>
-  <p>Email: <a href="mailto:[robinakhalid045@gmail.com
-]" style="color:#9bd7ff;">robinakhalid045@gmail.com
-</a><br>
+ color:#9bd7ff;">robinakhalid045@gmail.com
+Email: <a href="mailto:robinakhalid045@gmail.com" style="color:#9bd7ff;">robinakhalid045@gmail.com</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/robina-khalid-8a3510383/"[Your-LinkedIn-Username]" style="color:#9bd7ff;">https://www.linkedin.com/in/Robina Khalid </a></p>
 
 </div>
